@@ -1,2 +1,0 @@
-# CV-Resume
-my resume
