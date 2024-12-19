@@ -14,7 +14,9 @@ Data Analyst Junior en reconversion professionnelle. Fort d’une combinaison d�
 
 
 ## PORTFOLIO
-- **Customer Churn Analysis - Tableau** : Analyse du churn client et création de dashboards interactifs pour visualiser les tendances. [Tableau Public](https://public.tableau.com/app/profile/jc.coissard/viz/databel_case_study/DATABELChurnAnalysis).
+- **Customer Churn Analysis - Tableau** : Analyse du churn client et création de dashboards interactifs pour visualiser les tendances.
+  
+  [Tableau Public](https://public.tableau.com/app/profile/jc.coissard/viz/databel_case_study/DATABELChurnAnalysis)
 - **Sales Performance - Alteryx** : Workflow sur la rentabilité régionale et optimisation des stratégies marketing.
 - **SQL Sales Analysis** : Exploration des tendances de revenus multi-entrepôts avec des requêtes complexes.
 
